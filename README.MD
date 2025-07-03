@@ -24,7 +24,7 @@ Trading Journal is a full-stack web application for tracking and analyzing your 
   - Win/Loss breakdown (Pie Chart)  
   - Win rate, average win/loss, risk-reward ratio  
 - **Global UX**  
-  - Responsive navbar & layout with **Tailwind CSS** + **DaisyUI**  
+  - Responsive navbar & layout with **Tailwind CSS** 
   - App-level loading and error boundaries  
 - **Monorepo**  
   - Single repository with `client/` (Next.js) and `server/` (Express) workspaces  
